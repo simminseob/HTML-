@@ -1,6 +1,1 @@
-echo "# HTML-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/simminseob/HTML-.git
-git push -u origin master
+git clone <URL>.git
